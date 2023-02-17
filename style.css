@@ -106,6 +106,7 @@
     border-top: none;
     border-right: none;
     border-left: none;
+
   }
   
   .hero h1 {
@@ -126,7 +127,7 @@
   }
   
   .btn-primary {
-    background-color: #03a9f4;
+    background-color: #637787;
     color: #fff;
     font-weight: bold;
     font-size: 16px;
